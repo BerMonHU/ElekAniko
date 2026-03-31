@@ -1593,19 +1593,6 @@ section.lazy-placeholder:after {
     justify-content: center;
   }
 }
-.cid-vftm3fJyrk {
-  background: #ffffff;
-  padding-top: 60px;
-  padding-bottom: 60px;
-}
-.cid-vftm3fJyrk .video-block {
-  margin: auto;
-}
-@media (max-width: 768px) {
-  .cid-vftm3fJyrk .video-block {
-    width: 100% !important;
-  }
-}
 .cid-vfrdISJT5y .navbar {
   background: #b2ccd2;
   transition: none;
